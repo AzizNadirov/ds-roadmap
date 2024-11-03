@@ -2,8 +2,13 @@
 
 Düşünürəm ki, ilk öncə Data Science nədir sualını ortaya atıb, cavab verməyə çalışmalıyam. Çünki, irəlidlədikcə suallar ortaya çıxacaq - "görəsən bir data science-çı" (qısaca DSçı - de-esçı, özümdən Amerika kəşf edirəm) bunu bilmək nə üçün lazımdır, bəlkə müəllif(məni deyirlər) sadəcə "cool" görünmək üçün adı tanış gələn hər şeyi yazıb... Odur ki, gəlin bünövrəni təyin edək. 
 
+<<<<<<< HEAD
 #### Səthi baxış
 Deməli, bir zamanlar "Kompüter Elmləri mühəndisi" adlı mütəxəssis var idi. O zamanlar, elə zamanlar idi ki, onda kompüter əlaqəli texnologiyalar bu günküi kimi inkişaf etməmişdi, sahə müəyyən qədər dar idi, ona görə də özünə "kompüter elmləri mühəndisi" deyən və kompüterlə bağlı sistem və aparat təminatı ilə məşğul olan adamlar vardı. Bəs bu gün, "kompüter elmləri mühəndisi" deyilən bir peşə var? - Xeyir, yoxdur!
+=======
+#### **Bir balaca tarix**: 
+Deməli, bir zamanlar "Kompüter Elmləri mühəndisi" adlı mütəxəssis var idi. O zamanlar, elə zamanlar idi ki, onda kompüter əlaqəli texnologiyalar bu günküi kimi inkişaf etməmişdi, sahə müəyyən qədər dar idi, ona görə də özünə "kompüter elmləri mühəndisi" deyən və kompüterlə bağlı sistem və aparat təminatı ilə məşğul olan adamlar vardı. Bəs bu gün, "kompüter elmləri mühəndisi" deyilən bir peşə var? - Xeyr, yoxdur!
+>>>>>>> aea8f2f519bc7f88f2376be1e220f7c9dda1a3f6
 
 Niyə - çünki, bu sahə o qədər genişlənib və alt-sahələrə bölünüb ki, artıq bir nəfərin bütün bunları öyrənib başa çatdırması mümkün deyil. Məsələn, bu gün backend, frontend, kiber-təhlükəsizlik, software engineer, devops və sair kompüter elmlərinə daxil sahələr var. Niyə belə olur - istənilən istiqamət yeni kəşf edildikdə, o istiqamətdə araşdırmalar, kəşflər baş verir, yəni istiqamət genişlənir və yeni məqamlar ortaya çıxır. "Data Science" - verilənlər haqqında elm kimi tərcümə etmək olar. "Kompüter elmləri"nin mərkəzində kompüter dayanırdısa, burda hər şey "Data" - verilənlər ətrafında baş verir. Gördüyünüz kimi, Data Science(qısaca - DS) də kompüter elmlərinin alt sahəsidir, çünki Data - rəqəmsal datadır və kompütersiz bunu yaratmaq, təmasda olmaq mümkün deyil :). Data həm strukturlu - cədvəl formasında məsələn və ya tam struktursuz ola bilər - şəkil, səs, hansısa sensorların göstəriciləri və sairə. Yəni, dövlət portalındakı şəxsi işimiz və Südabə xalanın marketindəki kameranın çəkdiyi video - hamısı datadır. Özü-özlüyündə data çox faydalı bir şeydir! Datanın əsasında ölkələr idarə olunur, bizə bəzən heç lazım olmayan məhsullar satılır, Votsapda Əliyə yazdığımız ismarıclar Vəliyə getmir və sairə. Data - bir məlumatdır və bu məlumatdan düzgün istifadə etdikdə yaxşıca faydalanmaq olar.
 
