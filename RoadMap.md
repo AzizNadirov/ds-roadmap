@@ -26,6 +26,6 @@ Data ilə bu qədər işləməyimizin məqsədi - sonda datanı gəlirə çevirm
 
 Ümumilikdə Data Science 3 böyük qütbün kəsişməsində yerləşir:
 
-![ds triangle](src/triangle_ds.png)
+<img src="src/triangle_ds.png" height="250">
 
 - **Domain** - 
