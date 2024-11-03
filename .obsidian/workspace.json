@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ac4dd4e965328ddc",
@@ -164,6 +164,10 @@
   },
   "active": "f22acdf4b3b6e6c5",
   "lastOpenFiles": [
+    "src/triangle_ds.png",
+    "triangle_ds.png",
+    "src",
+    "Pasted image 20241103093037.png",
     "RoadMap.md"
   ]
 }
