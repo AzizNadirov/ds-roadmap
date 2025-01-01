@@ -1,9 +1,9 @@
 # Mündəricat:
 
-1. [[#Data Science - kimlərdəndi, nə iş görür...]]
-	1. [[#Səthi baxış]]
-	2. [[#Data Science dünyasının üç qütbü]]
-	3. [[#Data Science alt-sahələri]]
+1. [Data Science - kimlərdəndi, nə iş görür](./RoadMap.md#data-science---kimlərdəndi-nə-iş-görür)
+	1. [Səthi baxış](./RoadMap.md#səthi-baxış)
+	2. [Data Science dünyasının üç qütbü](./RoadMap.md#data-science-dünyasının-üç-qütbü)
+	3. [Data Science alt-sahələri](./RoadMap.md#data-science-alt-sahələri)
 2. 
 
 # Data Science - kimlərdəndi, nə iş görür...
