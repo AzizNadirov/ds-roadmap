@@ -4,7 +4,14 @@
 	1. [Səthi baxış](./RoadMap.md#səthi-baxış)
 	2. [Data Science dünyasının üç qütbü](./RoadMap.md#data-science-dünyasının-üç-qütbü)
 	3. [Data Science alt-sahələri](./RoadMap.md#data-science-alt-sahələri)
-2. 
+2. [Yol Xəritəsi](./RoadMap.md#yol-xəritəsi)
+	1. [1. Başlanğıc](./RoadMap.md#1-başlanğıc)
+		1. [Python](RoadMap.md#python)
+		2. [Statistika](RoadMap.md#statistika)
+		3. [SQL](RoadMap.md#sql)
+		4. [PowerBI](RoadMap.md#powerbi)
+	2. [Daha irəli](./RoadMap.md#2-daha-irəli)
+       1. [Python - pythonista səviyyəsi](RoadMap.md#python---pythonista-səviyyəsi)
 
 # Data Science - kimlərdəndi, nə iş görür...
 
@@ -52,6 +59,47 @@ MLOps Engineer və Data Engineer - hər ikisi Software Engineering alt sahələr
 
 > [!note]
 > Mənbələr əsasən ingilis dilində olacaq. Səbəb sadədir - Kompüter Elmləri, İT-də hər şey bu dildə yazılır, yaradılır. Hər şey bu dildə yazılmış mənbələrə istinad edir.
+
+## 1. Başlanğıc
+
+Başlanğıc üçün bir az statistika, proqramlaşdırma, SQL və BI lazımdı. Proqramlaşdırma dili kimi - Python, BI qismində - Power BI, SQL üçün isə əsas məsələ ümumi sorğu məntiqini anlamaqdır.
+#### Python
+
+| index | ad                                                                                                                    | təsviri                                                                                                                                                                    |
+| ----- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Python for Beginners - Learn Coding with Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)              | Bir saatlıq, əsas anlayışlardan bəhs edir.                                                                                                                                 |
+| 2     | [Python Tutorials(hələki ilk 50 video)](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)     | Corey Schafer - 1 nömrəli Python dərsləri müəllifidir. Məzmun bir balaca köhnəlsə də, faydasız zərrə qədər məlumat yoxdur. Başlanğıc üçün, ilk 50 video dərsə baxmaq olar. |
+| 3     | [Pandas Tutorials - Corey Schafer playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer müəllimin Pandas dərsləri                                                                                                                                    |
+| 4     | [Sentdex - Matplotlib Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)      | matplotlib öyrənmək üçün ən yaxşılardan biri. Müəllif kifayət qədər təcrübəli və şəndir.                                                                                   |
+#### Statistika
+
+| index | ad                                                                                                             | təsviri                                                                                                                                               |
+| ----- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Descriptive Statistics](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f)             | Təsviri statistikanın əsaslarını əhatə edir. Kanalda həmçinin hypotesis testing və s. mövzular da var.                                                |
+| 2     | [Statistics Course for Data Science](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) | Data Science yönümlü A-Z tipli playlist                                                                                                               |
+| 3     | [Khan Academy - Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)                          | Khan Academy yalnız statistika deyil, ümumiyyətlə riyaziyyatı yavaş-yavaş A-Z anlaşıqlı və intuitiv səviyyədə öyrənmək istəyənlər üçün qızıl mənbədir |
+#### SQL
+
+| index | ad                                                                                                                   | təsviri                                                                                      |
+| ----- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1     | [Mediumda Yol Xəritəsi məqaləsi](https://estheranagu.medium.com/clear-roadmap-to-mastering-sql-in-2024-db633eac4c88) | Müəllif SQL mövzularını əsaslardan-dərinə doğru bölüb, tətbiq edə biləcəyiniz saytlar verib. |
+| 2     | [Learn SQL in 1 Hour - SQL Basics for Beginners](https://www.youtube.com/watch?v=9Pzj7Aj25lw)                        | Sadə və aydın 1 saatlıq video dərs.                                                          |
+| 3     | [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3698s)             | 4 saatlıq SQL(MySQL)                                                                         |
+#### PowerBI
+
+| index | ad                                                                                                           | təsviri                                                                                                                                                    |
+| ----- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Power BI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Adından da göründüyü kimi, başlanğıc üçün nəzərdə tutulmuş video kursdur, hərəsi 10-15 dəq çəkən 9 dərsdən ibarətdi                                        |
+| 2     | [Power BI Full Course Tutorial](https://www.youtube.com/watch?v=e6QD8lP-m6E)                                 | Daha bir PBI kursu(~8 saat). Qrafik elementlərdən tutmuş, DAX funksiyalara, bəzi xüsusi fəndlərə qədər mövzular barədə danışıl                             |
+| 3     | [Beginner Power BI DAX Functions Tutorial ](https://www.youtube.com/watch?v=QJw4HkagVWc)                   DAX ifadələrə fokuslanmaq üçün istifadə etmək olar. 3 saata yaxın müddətdə ən çox istifadə olunan DAX funksiyaları və istifadə nümunələri izləyəcəksiniz. əri  |
+## 2. Daha irəli...
+
+#### Python - pythonista səviyyəsi
+
+> [!note]
+> Təxmin edirəm ki, bu ana qədər Pythonda rahatlıqla sadə verilənlər tiplərindən(ədədlər, sətrlər, siyahılar, lüğətlər və s.), dövrlərdən, funksiyalardan(öz funksiyalarınızı yarada, `print` və `return` arasında fərqi bilirsiniz) istifadə edə bilirsiniz. Bundan başqa, mütəmadi ifadələr(regex - `re` modulu), sadə veb parsinq(`beautifulsoup` ilə), DS kitabxanaları(pandas, matplotlib və numpy əsasları) ilə də tanlşsınız. Bundan sonra, əsas fokus - yazdığınız kodun keyfiyyətini artırmaq olacaq. Keyfiyyət dedikdə - kodun optimal və anlaşılan olması nəzərdə tutulur.
+
+
 
 
 

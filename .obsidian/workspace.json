@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "RoadMap"
             }
+          },
+          {
+            "id": "b079563ec4e3a3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RoadMap"
+            }
+          },
+          {
+            "id": "351d6a322d6c7130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RoadMap"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d6d4dec3a2d0672",
+  "active": "351d6a322d6c7130",
   "lastOpenFiles": [
     "src/ds professions.md",
     "RoadMap.md",
