@@ -13,6 +13,11 @@
 		5. [ML](RoadMap.md#ml)
 	2. [Daha irəli](./RoadMap.md#2-daha-irəli)
        1. [Python - pythonista səviyyəsi](RoadMap.md#python---pythonista-səviyyəsi)
+          1. [OOP](RoadMap.md#oop)
+          2. [Web App](RoadMap.md#web-app)
+          3. [Bəzi kitabxana və alətlər](RoadMap.md#bəzi-kitabxana-və-alətlər)
+          4. [Konteynerləşdirmə](RoadMap.md#konteynerləşdirmə)
+    3. [Faydalı Youtube kanalları](RoadMap.md#faydalı-youtube-kanalları)
 
 # Data Science - kimlərdəndi, nə iş görür...
 
