@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eafdc91fd9292f05",
+        "id": "505fed28343aef6f",
         "type": "tabs",
         "children": [
           {
-            "id": "351d6a322d6c7130",
+            "id": "7f0be583a6c85238",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,10 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "351d6a322d6c7130",
+  "active": "7f0be583a6c85238",
   "lastOpenFiles": [
-    "src/ds professions.md",
+    "bakhruz-ds-plan.md",
+    "().md",
     "RoadMap.md",
+    "src/ds professions.md",
     "burdadır.md",
     "ds professions.md",
     "src/triangle_ds.png",
