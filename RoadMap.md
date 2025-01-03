@@ -10,6 +10,7 @@
 		2. [Statistika](RoadMap.md#statistika)
 		3. [SQL](RoadMap.md#sql)
 		4. [PowerBI](RoadMap.md#powerbi)
+		5. [ML](RoadMap.md#ml)
 	2. [Daha irəli](./RoadMap.md#2-daha-irəli)
        1. [Python - pythonista səviyyəsi](RoadMap.md#python---pythonista-səviyyəsi)
 
@@ -87,19 +88,50 @@ Başlanğıc üçün bir az statistika, proqramlaşdırma, SQL və BI lazımdı.
 | 3     | [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3698s)             | 4 saatlıq SQL(MySQL)                                                                         |
 #### PowerBI
 
-| index | ad                                                                                                           | təsviri                                                                                                                                                    |
+| index | ad                                                                                                           | təsviri                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [Power BI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Adından da göründüyü kimi, başlanğıc üçün nəzərdə tutulmuş video kursdur, hərəsi 10-15 dəq çəkən 9 dərsdən ibarətdi                                        |
-| 2     | [Power BI Full Course Tutorial](https://www.youtube.com/watch?v=e6QD8lP-m6E)                                 | Daha bir PBI kursu(~8 saat). Qrafik elementlərdən tutmuş, DAX funksiyalara, bəzi xüsusi fəndlərə qədər mövzular barədə danışıl                             |
-| 3     | [Beginner Power BI DAX Functions Tutorial ](https://www.youtube.com/watch?v=QJw4HkagVWc)                   DAX ifadələrə fokuslanmaq üçün istifadə etmək olar. 3 saata yaxın müddətdə ən çox istifadə olunan DAX funksiyaları və istifadə nümunələri izləyəcəksiniz. əri  |
+| 1     | [Power BI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Adından da göründüyü kimi, başlanğıc üçün nəzərdə tutulmuş video kursdur, hərəsi 10-15 dəq çəkən 9 dərsdən ibarətdi                                       |
+| 2     | [Power BI Full Course Tutorial](https://www.youtube.com/watch?v=e6QD8lP-m6E)                                 | Daha bir PBI kursu(~8 saat). Qrafik elementlərdən tutmuş, DAX funksiyalara, bəzi xüsusi fəndlərə qədər mövzular barədə danışılır.                         |
+| 3     | [Beginner Power BI DAX Functions Tutorial ](https://www.youtube.com/watch?v=QJw4HkagVWc)                     | DAX ifadələrə fokuslanmaq üçün istifadə etmək olar. 3 saata yaxın müddətdə ən çox istifadə olunan DAX funksiyaları və istifadə nümunələri izləyəcəksiniz. |
+
+#### ML
+| index | ad                                                                                                                          | təsviri                                                                                                                                                                                                                                                                                                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Stanford CS229: Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)         | Mühazirəni oxuyan - Andrew müəllim, deyərdim ki ML tanınmasında ən çox əməyi olan adamdır. Başlanğıc üçün, bu pleylistin ilk 10 videosunu başa düşməyə çalışa bilərsiniz.                                                                                                                                         |
+| 2     | [Krish Naik - Complete Machine Learning playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) | Müəllif ML aləminin demək olar ki bütün sahələrinə aid material hazırlayıb. Alqoritmin arxasında dayanan məntiqi anlamaq üçün yaxşı mənbədir. Pleylistin 29-cu videodərsi və sonrasına baxmaq olar, gerisi python dərsləridir. Ümumilikdə Statistika, ML, tövsiyyə, müsahibə sualları və s aid məqamlara toxunub. |
+| 3     | [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)                    | Müəllif ML alqoritmlərini kod içərisində tətbiqi şəkildə göstərir. Hər şey sentdex tərzində )                                                                                                                                                                                                                     |
+
+
 ## 2. Daha irəli...
 
 #### Python - pythonista səviyyəsi
 
 > [!note]
-> Təxmin edirəm ki, bu ana qədər Pythonda rahatlıqla sadə verilənlər tiplərindən(ədədlər, sətrlər, siyahılar, lüğətlər və s.), dövrlərdən, funksiyalardan(öz funksiyalarınızı yarada, `print` və `return` arasında fərqi bilirsiniz) istifadə edə bilirsiniz. Bundan başqa, mütəmadi ifadələr(regex - `re` modulu), sadə veb parsinq(`beautifulsoup` ilə), DS kitabxanaları(pandas, matplotlib və numpy əsasları) ilə də tanlşsınız. Bundan sonra, əsas fokus - yazdığınız kodun keyfiyyətini artırmaq olacaq. Keyfiyyət dedikdə - kodun optimal və anlaşılan olması nəzərdə tutulur.
+> Təxmin edirəm ki, bu ana qədər Pythonda rahatlıqla sadə verilənlər tiplərindən(ədədlər, sətrlər, siyahılar, lüğətlər və s.), dövrlərdən, funksiyalardan(öz funksiyalarınızı yarada, `print` və `return` arasında fərqi bilirsiniz) istifadə edə bilirsiniz. Bundan başqa, mütəmadi ifadələr(regex - `re` modulu), sadə veb parsinq(`beautifulsoup` ilə), DS kitabxanaları(pandas, matplotlib və numpy əsasları) ilə də tanlşsınız. Bundan sonra, əsas fokus - yazdığınız kodun keyfiyyətini artırılmasına, əlavə alətlərin öyrənilməsinə(həm standart kitabxanadan, həm də üçüncü tərəf kitabxanalardan) yönələcək. Keyfiyyət dedikdə - kodun optimal və anlaşılan olması nəzərdə tutulur.
+
+##### OOP
+İlk olaraq öncə adını çəkdiyim bu "[Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)" pleylistdən baxmaq olar - müəllif obyekt yönümlü yanaşmanı əsas paradiqmaları ilə həm nəzəri, həm də tətbiqi şəkildə izah edir.  Ümumiyyətlə, bu pleylisti tam bitirməyi məsləhət görərdim(flask və django hissələrini buraxmaq olar, əvəzinə Fast API daxil etmək şərti ilə, bunun üçün sonda mənbələr verəcəm. Görəcəksiniz ki, dərslər arasında logging, testing, kodda məxvi məlumatlardan istifadə etmə və s. yer alır, bunların hamısı bizə lazım olacaq). Müəllifin OOP üçün ayrıca [playlisti](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc).  Daha sonra(və ya əvvəl - fərqi yoxdur) [Python Object Oriented Programming Full Course 🐍](https://www.youtube.com/watch?v=IbMDCwVm63M) 2 saatlıq dərsdə daha çox nəzəri də olsa, Pyhtonda OOP ilə daha dərindən tanış ola bilərsiniz. 
+##### Web App
+Data Science-də veb app yaratmaq tələbatı nadir bir şey deyil. Çox vaxt, modeli ən azından test üçün hansısa bir yolla veb app içərisinə "büküb" test üçün komanda yoldaşlarına və ya testerlərə vermək lazım gəlir(və ya koddan anlayışı olmayan biznesə nümayiş etdirmək üçün). Pythonda veb app yaratmaq üçün xeyli freymvörk(framework) var: Django, Flask, Fast API, StreamLit və digər az tanınanlar. Django daha çox veb development üçün uyğundur, içərisində əvvəlcədən hazırlanmış N qədər məntiq var. Biz - DSçilər üçün isə, sadəcə modeli içərisinə "atıb", bir az vizual verəcəyimiz bir şey lazımdır. Bunun üçün Flask və yaxud FastAPI seçilə bilər. FastAPI daha yenidir və müasir Python yanaşmaları ilə ayaqlaşır. Əlavə olaraq sırf DS məsələləri üçün Streamlit öyrənmək olar, bu freymvörk daha sadədir, sizdən frontend(html, css və s) tələb etmir. FastAPI üçün [FastAPI Tutorial - Building RESTful APIs with Python](https://www.youtube.com/@amigoscode) saatlıq video kursu məsləhət görərdim. Daha sonra, nəsə **əjdaha** bir şey axtarsaz [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=2057s) baxa bilərsiniz. 
+
+Streamlit üçün [Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn](https://www.youtube.com/@patloeber) ilə başlamaq olar. Daha sonra, [rəsmi səhifələrindən](https://docs.streamlit.io/) digər komponentlərlə tanış ola bilərsiniz. 
+##### Bəzi kitabxana və alətlər
+- [Type Hinting](https://docs.python.org/3/library/typing.html) - Pythonda dəyişənlərin və parametrlərin tiplərini işarələməyə imkan verir. [Tech With Tim](https://www.youtube.com/watch?v=QORvB-_mbZ0) və [bu](https://www.youtube.com/watch?v=dgBCEB2jVU0).
+- [Dataclass-lar](https://docs.python.org/3/library/dataclasses.html) - Python 3.7-də təşrif buyuran və özlərindən konkret strukturlu datanı saxlamaq üçün istifadə olunan classlardır(daha doğrusu class-dekoratoru). [ArjanCodes](https://www.youtube.com/watch?v=CvQ7e6yUtnw&t=763s),[MCoding](https://www.youtube.com/watch?v=vBH6GRJ1REM) 
+- [Pydantic](https://docs.pydantic.dev/latest/) - Pythonda data validasiyası üçün əla bir kitabxana. [ArjanCodes](https://www.youtube.com/watch?v=502XOB0u8OY&t=46s) və [sonra](https://www.youtube.com/watch?v=zN4VCb0LbQI&t=10s)
+- [Unittest](https://docs.python.org/3/library/unittest.html) - Corey müəllimin [videosu](https://www.youtube.com/watch?v=6tNS--WetLI&t=1446s), hələ də baxmamısınızsa.
+- [Pathlib](https://docs.python.org/3/library/pathlib.html) - Fayl sistemində path-lərlə işləmək üçün standart kitabxana. [Corey](https://www.youtube.com/watch?v=yxa-DJuuTBI&t=13s), [Arjan](https://www.youtube.com/watch?v=UcKkmwaRbsQ&t=140s).
+- [collections](https://docs.python.org/3/library/collections.html) - 
 
 
 
 
+## Faydalı Youtube kanalları
 
+- [Sentdex](https://www.youtube.com/@sentdex) - Deep Learnin, ML mövzularında əla pleylistləri var, pozitiv və sərbəst çatdırır. Camaat GTA V oynayanda(mən o zamanlar hələ GTA SA oynayırdım), adam GTA V-də avtonom maşın hazırlayırdı :) 
+- [ArjanCodes](https://www.youtube.com/@ArjanCodes) - Python ilə müasir və təmiz proqramlaşdırmanı öyrənmək üçün əla kanal. 
+- [MCoding](https://www.youtube.com/@mCoding) - müəllif haqqında danışdığı mövzuların dərinliyinə dalır. Bəzən təkrarən bir-neçə dəfə baxmalı olursan :)
+- [Krish Naik](https://www.youtube.com/@krishnaik06) - Müəllifin AI ilə bağlı yüzlərlə videoları var, sadə, əlüstü təqdimatı var. 
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)- qəliz riyaziyyatı görərək başa düşmək üçün möhtəşəm kanal. Animasiyalar başqa səviyyədir. ML, DL arxasındakı riyaziyyatı bilmək istəyənlər üçün faydalı olacaq.
+- [From Languages to Information](https://www.youtube.com/@fromlanguagestoinformation4012) - NLP(Natural Language Processing) ilə maraqlananlar üçün. Adamın eyni adlı kitabı da var. 
+- [Victor Lavrenko](https://www.youtube.com/@vlavrenko) - Neyron Şəbəkələr və IR üçün.
