@@ -135,12 +135,17 @@ Streamlit üçün [Build A Beautiful Machine Learning Web App With Streamlit And
 
 #### Konteynerləşdirmə
 - Docker - mini virtual maşına bənzəyən docker konteynerlərini yaratmaq üçün istifadə edilir. Nana xanımın [1 saatlıq](https://www.youtube.com/watch?v=pg19Z8LL06w) və [3 saatlıq](https://www.youtube.com/watch?v=3c-iBn73dDE) video dərsi. Daha bir [video](https://www.youtube.com/watch?v=p28piYY_wv8&t=5149s). Sonda: [Build an AI app with FastAPI and Docker](https://www.youtube.com/watch?v=iqrS7Q174Ac)
+- [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/@DevOpsDirective)
 -  Docker Compose - docker konteynerlər "bağlamasını" yaratmaq və idarə etmək üçün istifadə edilir. Nana xanımdan bir [video](https://www.youtube.com/watch?v=SXwC9fSwct8).
+-  Kubernetes(k8s): docker compose bəs etmirsə, daha peşəkar və ağır deployment lazımdırsa istifadə etmək lazımdır. [Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition)](https://www.youtube.com/watch?v=MTHGoGUFpvE). PS, daha yüngül variant - minikube və ya k3s istifadə etmək olar.
 
 #### Git - GitHub
 
 #### CI/CD
-GitHub Actions, GitLab
+- GitHub Actions, GitLab
+- [Make Docker easier with Makefiles](https://www.youtube.com/watch?v=44EqIY7v5xM)
+- 
+
 
 #### ML Frameworks
 MLFlow, Airflow
